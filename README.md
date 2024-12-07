@@ -1,10 +1,10 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Srivatsava%20Gade%20👨‍💻&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
-<h3 align="center">AI\ML Engineer @ Kirusa |M.Sc Data Science @ VIT-AP</h3>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Sriram%20Gade%20👨‍💻&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
+<h3 align="center">BTech.C.S.E@VIT-AP</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivatsavagade&label=Profile%20views&color=0e75b6&style=flat" alt="srivatsavagade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramgade&label=Profile%20views&color=0e75b6&style=flat" alt="sriramgade" /> </p>
 
 <p align="left">🧠 Crafting algorithms to tackle real-world challenges
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about *ML, NLP, AI*
 
-- 📫 You can reach me on *srivatsavagade@gmail.com*
+- 📫 You can reach me on *gadesriram8@gmail.com*
 
 
 
@@ -26,9 +26,9 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SrivatsavaGade" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/srivatsavagade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivatsavagade" height="30" width="40" /></a>
-<a href="https://www.instagram.com/srivatsava_gade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srivatsavagade" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SriramGade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sriram-gade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriramgade" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_m_s_r_i_r_a_m_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sriramgade" height="30" width="40" /></a>
 </p>
 
 <p align="left">
