@@ -12,7 +12,7 @@
 
 🌐 Passionate about transforming ideas into actionable solutions.</p>
 
-- 🔭 I’m currently looking for *Research Positions*
+- 🔭 I’m currently looking for *S.D.E Roles*
 
 - 🌱 I’m currently learning *Data Structures & Algorithms*
 
